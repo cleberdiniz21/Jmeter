@@ -1,5 +1,4 @@
-![JMETER]
-(http://www.testingdiaries.com/wp-content/uploads/2017/03/ConstantTimer.gif)
+![ JMETE R] (https://jmetervn.files.wordpress.com/2017/06/with_timer.gif?w=612&zoom=2)
 
 
 # JMETER
