@@ -1,5 +1,4 @@
-![ JMETER] (https://jmetervn.files.wordpress.com/2017/06/with_timer.gif?w=612&zoom=2)
-
+![Pithon](https://jmetervn.files.wordpress.com/2017/06/with_timer.gif?w=612&zoom=2)
 
 # JMETER
   ## TESTES COM JMETER
