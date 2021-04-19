@@ -1,4 +1,6 @@
-![ ] 
+![JMETER]
+(http://www.testingdiaries.com/wp-content/uploads/2017/03/ConstantTimer.gif)
+
 
 # JMETER
   ## TESTES COM JMETER
